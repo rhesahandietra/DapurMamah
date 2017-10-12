@@ -1,0 +1,185 @@
+<resources>
+    <string name="app_name">Dapur Mamah</string>
+
+    <string-array name="makanan">
+        <item>Lasagna</item>
+        <item>Ayam Kung Pao</item>
+        <item>Rendang</item>
+        <item>Empal Gepuk</item>
+        <item>Mie Udang Bakso</item>
+        <item>Bakwan Jagung Kriuk</item>
+        <item>Gado-gado</item>
+    </string-array>
+
+    <string-array name="deskripsi">
+        <item>Pasta yang dipanggang di oven dan merupakan makanan tradisional Italia. Lasagna sendiri secara harfiah adalah lasagne yang berisikan daging.</item>
+        <item>Ayam goreng khas Tiongkok yang disajikan dengan bumbu dan kacang mede.</item>
+        <item>Masakan daging bercita rasa pedas khas Indonesia yang menggunakan campuran dari berbagai bumbu dan rempah-rempah.</item>
+        <item>Daging sapi yang diiris dan digepuk, dihidangkan dengan bumbu halus.</item>
+        <item>Mie yang digoreng dengan topping tambahan udang dan bakso.</item>
+        <item>Bakwan dengan campuran jagung yang manis dan kriuk di tiap gigitannya.</item>
+        <item>Sayur yang dihidangkan dengan siraman saus kacang yang lezat.</item>
+    </string-array>
+
+    <string-array name="bahan">
+        <item>1. 7 lembar Kulit Lasagna\n
+        2.	250 gram Daging Cincang\n
+        3.	350 gram Keju Cheddar\n
+        White Sauce\n
+        4.	1 sendok makan Mentega\n
+        5.	500 ml Susu Cair\n
+        6.	2 sendok makan Tepung\n
+        7.	secukupnya Garam\n
+        8.	secukupnya Lada\n
+        9.	50 gram Keju Parut\n
+        Red Sauce\n
+        10.	1 buah Bawang Bombay\n
+        11.	4 siung Bawang Putih\n
+        12.	3 buah Tomat Merah (Rebus, Buang Kulit)\n
+        13.	1/4 sendok teh Oregano (optional)\n
+        14.	3 sendok makan Saus Tomat\n
+        15.	4 sendok makan Saus Spaghetti\n
+        16.	2 helai Daun Salam Kering\n
+        17.	secukupnya Kaldu bubuk (optional)\n
+        18.	secukupnya Garam, Gula dan Lada\n
+        </item>
+        <item>1. 3 potong fillet paha,potong kotak\n
+2. 3 siung bawang putih,cincang\n
+3. 3 buah cabe kering,potong kotak\n
+4. 1 buah bawang bombay,potong kotak\n
+5. 1 sdm saos tomat\n
+6. 1 sdm saos tiram\n
+7. 2 sdm kecap manis\n
+8. 1 sdt gula pasir\n
+9. 1 sdt minyak wijen\n
+10. 1 batang daun bawang,potong agak besar\n
+11. secukupnya lada\n</item>
+        <item>Bahan Utama Untuk Membuat Resep Daging Rendang Asli Padang:\n
+
+1. 1.5 kg daging\n
+2. 2 liter santan dari 2 butir kelapa tua\n
+Bumbu dan Rempah Untuk Membuat Rendang Minang Asli:\n
+3. 2 batang daun serai, memarkan\n
+4. 4 lembar daun jeruk purut\n
+5. 2 cm asam kandis/gelugur\n
+6. 2 lembar daun kunyit, simpulkan\n
+Bumbu Resep Rendang Padang Asli Minang yang harus kamu Dihaluskan:\n
+
+1. 5 butir kemiri\n
+2. 6 siung bawang putih\n
+3. 100 g cabe merah besar\n
+4. 12 butir bawang merah\n
+5. 100 g cabe merah keriting\n
+6. 2 cm jahe, bakar\n
+7. 2 cm lengkuas\n
+8. 3 cm kunyit, bakar\n
+9. 1/2 sdm ketumbar\n
+10. 2 sdt garam\n
+11. 1/2 sdt pala\n
+12. 1 sdt jintan, sangrai\n
+13. Penyedap rasa secukupnya</item>
+        <item>1. 200 gr daging sapi (iris memanjang ikuti serat)\n
+2. 1 tangkai daun serai\n
+3. 2 lbr daun salam\n
+4. 5 cm lengkuas\n
+Bumbu Halus :\n
+1. 5 butir kemiri\n
+2. 5 buah bawang putih\n
+3. 3 buah bawang merah\n
+4. 1/2 sdm (ketumbar yg sudah di sangrai)\n
+5. 1 sdt gula palem\n
+6. gula jawa\n
+7. garam</item>
+        <item>1. 140 gram mie kering\n
+2. Secukupnya kol\n
+3. Secukupnya daun bawang\n
+4. Secukupnya kecap manis\n
+5. 2 sdm saus tiram\n
+6. Secukupnya minyak untuk menumis\n
+Bumbu halus :\n
+1. 6 siung bawang merah\n
+2. 3 siung bawang putih\n
+3. 2 butir kemiri\n
+4. 1 sdt merica butiran\n
+5. 2 buah cabe merah keriting\n
+6. 5 buah cabe rawit merah (optional)\n
+7. secukupnya gula dan garam</item>
+        <item>1. 2 buah jagung manis\n
+2. 1 butir telur\n
+3. 3 sendok makan tepung beras\n
+4. 1 sendok tepung tapioka\n
+5. 1 sdm Penyedap rasa\n
+Bumbu halus\n
+1. 5 siung bawang merah\n
+2. 4 siung bawang putih\n
+3. 1/2 sdt ketumbar\n
+4. Sejumput jinten\n
+5. 3 lembar daun jeruk</item>
+        <item>1. 1 iket bayem\n
+2. 1 iket kangkung\n
+3. 1/2 kol di iris\n
+4. secukupnya Toge\n
+5. 1 buah labu Siap rebus\n
+6. 2 buah kentang rebus\n
+7. 1 iket kacang panjang\n
+Bumbu yang di haluskan\n
+1. sesuai selera Cabe rebus\n
+2. sesuai selera Kacang goreng\n
+3. Air asem jawa\n
+4. sesuai selera Gula merah\n
+5. sdm Garam\n
+6. 2 buah Bawang putih</item>
+    </string-array>
+
+
+    <string-array name="step">
+    <item>1. Potong tomat rebus menjadi dadu, biji lebih baik jangan dibuang karena memiliki kandungan vit c yang banyak.\n
+2.	RED SAUCE:\n
+Tumis bawang bombay dan bawang putih sampai warna berubah menjadi transparan, lalu masukkan daging cincang dan tumis hingga berubah warna. Lalu masukkan semua bahan Red Sauce\n
+3.	WHITE SAUCE:\n
+Gunakan panci anti lengket. Dengan api kecil\n
+Masukkan Mentenga, saat mentega lumer masukkan tepung dan tepung menyerap semua mentega, hati-hati tepung mudah gosong.\n
+4.	Masukkan susu cair sedikit demi sedikit sambil terus diaduk agar tidak menggumpal. masukkan susu sampai habis dan adonan mengental. lalu tambahkan Keju, merica dan garam.\n
+5.	panaskan oven 175c\n
+atur kulit lasagna, lalu tuang Red sauce pada satu bagian, lalu timba dengan White sauce, dan keju lalu tutup dengan lembar lasagna lagi. ulangi sampai pasta sheet habis.\n
+Lapisan paling atas setelah menuang Sauce, jangan ditabur keju.\n
+6.	Panggang selama 20 menit, dan permukaan menjadi kuning keemasan. dengan sisa 5 menit terakhir taburi keju diatasnya.\n
+untuk dihidangkan lasagna dikeluarkan dari oven dan didiamkan dahulu 20 menit.\n
+</item>
+        <item>1. Goreng ayam sampai berkulit,sisihkan.\n
+2. Panaskan minyak,tumis bawang bombay dan bawang putih sampai harum.masukan cabe kering,aduk.\n
+3. Tambahkan ayam,aduk.masukkan kecap manis,saos tiram,saos tomat,gula,lada,aduk rata.tuangi sedikit air.masak sampai matang.\n
+4. Tambahkan daun bawang dan minyak wijen,aduk.angkat dan sajikan.\n</item>
+        <item>1. Pertama tama olah daging yang sudah disiapkan, potong-potong daging rendang dengan bentuk dadu atau seukuran yang diinginkan, hanya saja jangan pernah memotong daging terlalu kecil untuk diolah menjadi rendang agar saat dimasak nanti daging tidak hancur.\n
+
+2. Tuangkan santan ke wajan berukuran besar, masukkan pula serai, irisan bawang merah, asam dan daun kunyit. Aduk-aduk hingga santan mendidih dan pastikan santan yang anda masak tidak pecah, untuk itu Anda harus terus mengaduk-aduk santan hingga mendidih merata.\n
+
+3. Setelah santan mendidih, masukkan perlahan bumbu yang telah dihaluskan kedalamnya dan sesekali aduk-aduk selama kurang lebih 20 – 30 menit.\n
+
+4. Setelah anda melihat santan tampak berminyak, berarti ini saatnya kamu memasukan potongan daging rendang yang telah dibersihkan dan masak dengan menggunakan api kecil/sedang hingga santan mengental dan mengering serta bumbu meresap ke pori pori daging.\n
+
+5. Terus masak hingga daging empuk dan matang merata, jangan lengah untuk terus diaduk-aduk agar bagian dasar tidak gosong dan daging tidak gagal.
+        </item>
+        <item>1. Tumis bumbu halus yg sudah di blender.\n
+2. Masukkan daun salam, serai dan lengkuas ke dalam tumisan bumbu.\n
+3. Beri sedikit air lalu aduk dan masukkan gula jawa, gula palem dan garam.\n
+4. Beri air lagi lalu diamkan 40 menit / hingga air meresap.\n
+5. Daging ditiriskan dan di gepuk dengan batu gilingan. sapi gepuk di olesi sisa bumbu kuah endapan lagi.\n
+6. Siapkan wajan beri sedikit minyak lalu goreng sapi gepuk.\n
+7. Siap disantap dengan nasi hangat.</item>
+        <item>1. Rebus mie sampai matang, sisihkan. Jangan terlalu lembek ya.\n
+2. Panaskan minyak, masukkan udang dan aduk sampai matang dan berubah warna.\n
+3. Masukkan bakso, aduk sebentar saja. Sisihkan udang dan bakso di pinggir wajan.\n
+4. Tumis bumbu halus hingga harum.\n
+5. Masukkan mie, kecap manis dan saus tiram. Aduk hingga tercampur rata.\n
+6. Masukkan kol dan daun bawang, aduk sampai kol layu.\n
+7. Koreksi rasa. Angkat dan sajikan. Taburi bawang goreng dan lebih enak kalau pakai acar timun </item>
+        <item>1. Haluskan jagung manis beserta bumbu halus.\n
+2. Masukkan telur dan tepung serta penyedap rasa.\n
+3. Aduk hingga rata. Goreng dan cicipi rasa.</item>
+        <item>1. Rebus semua sayuran dan teruskan.\n
+        2. Uleg kacang yg sudah di goreng, tambahkan cabe, bawang putih, garamsampai halus, gula jawa, dan air asem.\n
+        3. Campur sayuran dengan bumbu, siap sajikan.</item>
+    </string-array>
+
+</resources>
